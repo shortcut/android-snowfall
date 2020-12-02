@@ -1,5 +1,5 @@
 # Forked from https://github.com/JetradarMobile/android-snowfall
-
+Add support for multiple images
 
 Android-Snowfall
 ================
